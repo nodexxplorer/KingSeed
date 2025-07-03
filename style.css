@@ -160,6 +160,12 @@ h1{
   box-shadow: 0 0 10px #ddd;
 }
 
+.div1{
+  display: flex;
+}
+.div11{
+  width: 100%;
+}
 .profile img {
   width: 250px;
   height: 230px;
@@ -171,6 +177,13 @@ h1{
   .profile img {
     width: 200px;
    height: 180px;
+}
+.div1{
+  display: block;
+  
+}
+.div11{
+  width: auto;
 }
 }
 
