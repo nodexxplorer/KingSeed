@@ -1,1 +1,1 @@
-"# kingseed" 
+"# KingSeed" 
